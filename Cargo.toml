@@ -1,0 +1,9 @@
+[package]
+name = "leergang"
+version = "0.1.0"
+authors = ["Wilco Kusee <wilcokusee@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.4"
+if_chain = "0.1.2"
